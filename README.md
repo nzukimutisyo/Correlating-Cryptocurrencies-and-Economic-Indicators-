@@ -14,7 +14,7 @@ These instructions will get you a copy of the project and the necessary data to 
 
 ### Installation
 
-1. Clone the repository to your local machine using `git clone https://github.com/nzukimutisyo/BitcoinCorrelations.git`
+1. Clone the repository to your local machine using `git clone https://github.com/nzukimutisyo/Correlating-Cryptocurrencies-and-Economic-Indicators .git`
 2. Navigate to the project directory using `cd BitcoinCorrelation`
 3. Install the required libraries using `pip install -r requirements.txt`
 4. Download the Bitcoin price data and place it in the `data` folder
@@ -28,6 +28,7 @@ These instructions will get you a copy of the project and the necessary data to 
 * pandas, numpy, matplotlib, seaborn, sklearn
 
 ## Group Members
+- Brian Nzuki 
 - Stephanie Sanjines
 - Iona Clark
 - Joana Avrami
