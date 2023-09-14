@@ -27,7 +27,7 @@ These instructions will get you a copy of the project and the necessary data to 
 * Jupyter Notebook
 * pandas, numpy, matplotlib, seaborn, sklearn
 
-## Group Members
+## Collaborators
 - Brian Nzuki 
 - Stephanie Sanjines
 - Iona Clark
